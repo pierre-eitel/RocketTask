@@ -10,4 +10,9 @@
     <ProjectReference Include="..\RocketTask.Communication\RocketTask.Communication.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UseCases\Task\Delete\" />
+    <Folder Include="UseCases\Task\Update\" />
+  </ItemGroup>
+
 </Project>

@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\RocketTask.Application\RocketTask.Application.csproj" />
     <ProjectReference Include="..\RocketTask.Communication\RocketTask.Communication.csproj" />
   </ItemGroup>
