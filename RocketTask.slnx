@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RocketTask.API/RocketTask.API.csproj" />
+  <Project Path="RocketTask.Application/RocketTask.Application.csproj" />
+  <Project Path="RocketTask.Communication/RocketTask.Communication.csproj" />
+</Solution>
